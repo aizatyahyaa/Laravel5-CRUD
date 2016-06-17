@@ -1,0 +1,11 @@
+{
+  "name": "Laravel5-CRUD",
+  "description": "The 'hello, world' f",
+  "keywords": [
+    "laravel",
+    "CRUD"
+  ],
+  "website": "http://www.getslurp.com",
+  "repository": "https://github.com/aizatyahyaa/Laravel5-CRUD",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
